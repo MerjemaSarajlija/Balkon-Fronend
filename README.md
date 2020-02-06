@@ -5,4 +5,4 @@ Run this in root project folder to install dependencies:
 
 and then to run api server:
 
-```$npm run dev```
+```$npm start```
